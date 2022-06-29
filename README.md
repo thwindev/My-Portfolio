@@ -1,2 +1,2 @@
 # My Portfolio
-https://thwindev.github.io/tnsdev.github.io/
+https://thwindev.github.io/My-Portfolio/
